@@ -53,8 +53,9 @@ module.exports = {
       link: 'https://github.com/MimiaoX',
     },
     {
-      name: '',
-      link: '',
+      name: 'qq',
+      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=uMYAhAZJVzphYNBatlWwuQ93yFTV3KqX&noverify=0
+',
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
