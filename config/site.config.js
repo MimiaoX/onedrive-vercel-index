@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "OneDrive",
+  title: "Xian's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Copyrights © 2022 <a href="https://x-lac.vercel.app/">MimiaoX</a> - Powered by <a href="https://vercel.com">Vercel</a> - <a href="https://x-eta.vercel.app/api/raw/?path=/Alpha/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.docx&odpt=7e32a729b1226ed1270f282a8c63054d09b26bc9ec53ea69771ce38158dfade8">免责声明</a>',
+    'Copyrights © 2022 <a href="https://x-lac.vercel.app/">MimiaoX</a> - <a href="https://x-lac.vercel.app/1/">免责声明</a> - Powered by <a href="https://vercel.com">Vercel</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -50,12 +50,11 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/MimiaoX',
     },
     {
-      name: 'skyatlas',
-      link: 'https://x-zeta.vercel.app',
-    },
+      name: '',
+      link: '',
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
