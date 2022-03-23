@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'qq',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=uMYAhAZJVzphYNBatlWwuQ93yFTV3KqX&noverify=0
+      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=uMYAhAZJVzphYNBatlWwuQ93yFTV3KqX&noverify=0'
 ',
   ],
 
