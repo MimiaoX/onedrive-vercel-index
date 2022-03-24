@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<details><summary><font color="6699ff">感谢您的支持^_^（点击捐赠）</font></summary><img width=970px src="https://x-eta.vercel.app/api/raw/?path=/Alpha/skm.png&odpt=7e32a729b1226ed1270f282a8c63054d09b26bc9ec53ea69771ce38158dfade8"></details>',
+    'Copyrights © 2022 <a href="https://x-lac.vercel.app/">MimiaoX</a> - <a href="https://x-lac.vercel.app/1">免责声明</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -53,7 +53,7 @@ module.exports = {
       link: 'https://github.com/MimiaoX',
     },
     {
-      name: 'blog',
+      name: 'blog-Solid',
       link: 'https://x-lac.vercel.app',
     },
          ],
